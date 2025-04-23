@@ -1,1 +1,2 @@
-# Applying-ML-and-DL-models-on-MNIST-image-Dataset
+# Applying ML and DL models on MNIST image Dataset
+Using MNIST dataset due to its widespread use in evaluating classification algorithms. The dataset contains 70,000 grayscale images of handwritten digits (0–9), each of size 28×28 pixels. The data was preprocessed by normalizing pixel intensities to the [0,1] range and was split into 80% for training and 20% for testing using stratified sampling. Multiple models were trained and evaluated, including a Random Forest classifier, a Support Vector Machine (SVM), and a Convolutional Neural Network (CNN), with performance measured using classification reports that include precision, recall, and F1-score
